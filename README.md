@@ -2,7 +2,7 @@
 - 👀 I'm interested in work on Ti area
 - 🌱 I’m currently learning VueJS
 - 💞️ I try to learn the news and put them into practice
-- 📫 How to reach me send e-mail to pedrorezende@gmail.com
+- 📫 How to reach me send e-mail to pedrohgrezende@gmail.com
 
 <!---
 pedrorezende07/pedrorezende07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
