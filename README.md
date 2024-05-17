@@ -1,8 +1,6 @@
 ### Meu nome é Pedro Rezende ✌️
-
- - 🔭 Estou finalizando meu curso em Sistemas de Informação, atualmente sou Analista de Desenvolvimento na Gamefic, startup de Gamificacao, hoje fico resposavel de suporte 100% a plataforma, novas features em Vuejs e estou desenvolvimento meus conhecimento em C#, onde mexo com a API da empresa e estou desenvolvendo integracoes com nossos clientes.
- - Meu foco é ser desenvolvedor Full stack. Penso que devemos atuar em tudo que for preciso, seja com front-end, back-end ou dba... temos que ser completos.
-
+- 🔭 Estou finalizando meu curso em Sistemas de Informação. Atualmente, sou Analista de Desenvolvimento na Gamefic, uma startup de Gamificação. Hoje, sou responsável pelo suporte 100% à plataforma, novas features em Vue.js e estou desenvolvendo meus conhecimentos em C#, onde trabalho com a API da empresa e estou desenvolvendo integrações com nossos clientes.
+Meu foco é ser desenvolvedor Full Stack. Penso que devemos atuar em tudo que for preciso, seja com front-end, back-end ou DBA... temos que ser completos.
    
  - ✉️ Abaixo estão todas as minhas redes sociais e e-mail.
   
