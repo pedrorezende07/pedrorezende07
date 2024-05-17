@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @pedrorezende07
-- 👀 I'm interested in work on Ti area
-- 🌱 I’m currently learning VueJS
-- 💞️ I try to learn the news and put them into practice
-- 📫 How to reach me send e-mail to pedrohgrezende@gmail.com
+### Meu nome é Pedro Rezende ✌️
 
-<!---
-pedrorezende07/pedrorezende07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - 🔭 Estou finalizando meu curso em Sistemas de Informação, atualmente sou Analista de Desenvolvimento na Gamefic, startup de Gamificacao, hoje fico resposavel de suporte 100% a plataforma, novas features em Vuejs e estou desenvolvimento meus conhecimento em C#, onde mexo com a API da empresa e estou desenvolvendo integracoes com nossos clientes.
+ - Meu foco é ser desenvolvedor Full stack. Penso que devemos atuar em tudo que for preciso, seja com front-end, back-end ou dba... temos que ser completos.
+
+   
+ - ✉️ Abaixo estão todas as minhas redes sociais e e-mail.
+  
+  ##
+  <div align="center">
+  <a href="https://github.com/pedrorezende07">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorezende07&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorezende07&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+ </div>
+   
+  <div align="center"> 
+       <a href="https://www.instagram.com/phg_rezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+       <a href = "mailto:pedrohgrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+       <a href="https://www.linkedin.com/in/pedro-phgr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
